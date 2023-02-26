@@ -1,4 +1,4 @@
-![Logo]()
+![Logo](https://github.com/Kallpolo/Kallpolo/blob/main/kallpolo.png)
 
 <h1 align="center">Halo 👋</h1>
 
