@@ -2,7 +2,7 @@
 
 <h1 align="center">Halo 👋</h1>
 
-<h3 align="center">Nama saya Haikal Yulistiansyah</h3>
+<h3 align="center">My Name is Haikal Yulistiansyah</h3>
 
 - 🇮🇩 Country : Indonesia
 
