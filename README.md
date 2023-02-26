@@ -20,6 +20,6 @@
 
 </p>
 
-![GIF]()
+![GIF](https://github.com/Kallpolo/Kallpolo/blob/main/motor.gif)
 
 
