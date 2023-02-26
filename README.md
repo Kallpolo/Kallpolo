@@ -2,7 +2,7 @@
 
 <h1 align="center">Halo 👋</h1>
 
-<h3 align="center">My Name is Haikal Yulistiansyah</h3>
+<h3 align="center">Selamat Datang! di enjoyin aja:)</h3>
 
 - 🇮🇩 Country : Indonesia
 
@@ -12,7 +12,7 @@
 
 - 🌐 Website : **https://www.kalluffy.my.id/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social:</h3>
 
 <p align="left">
 
