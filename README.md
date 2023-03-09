@@ -1,8 +1,8 @@
 ![Logo](https://github.com/Kallpolo/Kallpolo/blob/main/hy.png)
 
-<h1 align="center">Halo 👋</h1>
+<h1 align="center">Halo 👋 Selamat Datang!</h1>
 
-<h3 align="center">Selamat Datang! di enjoyin aja:)</h3>
+<h3 align="center">di enjoyin aja:)</h3>
 
 - 🇮🇩 Country : Indonesia
 
