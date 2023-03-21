@@ -2,7 +2,7 @@
 
 <h1 align="center">Halo 👋 Selamat Datang!</h1>
 
-<h3 align="center">di enjoyin aja:)</h3>
+<h3 align="center">enjoy🍻</h3>
 
 - 🇮🇩 Country : Indonesia
 
