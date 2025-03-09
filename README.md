@@ -8,9 +8,9 @@
 
 - 🌆 City : Jakarta
 
-- 📨 Email : kall@myself.com
+- 📨 Email : haikal@kallpolo.xyz
 
-- 🌐 Website : **https://www.kalluffy.my.id/**
+- 🌐 Website : **https://www.kallpolo.xyz/**
 
 <h3 align="left">Social:</h3>
 
