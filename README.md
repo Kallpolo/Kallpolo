@@ -8,9 +8,9 @@
 
 - 🌆 City : Jakarta
 
-- 📨 Email : haikal@kallpolo.xyz
+- 📨 Email : me@haikalylstnsyh.xyz
 
-- 🌐 Website : **https://www.kallpolo.xyz/**
+- 🌐 Website : **https://www.haikalylstnsyh.xyz/**
 
 <h3 align="left">Social:</h3>
 
